@@ -23,3 +23,4 @@ Space Complexity: O(1) (since no extra space is used.)
 2. Repeat procedure until both lists are exhausted
 3. Return resultant list.
 
+![Merge-Two-Sorted-LinkedLists1](https://user-images.githubusercontent.com/89499345/157838922-75ce5ee7-fbcc-451d-b2e7-6a4becd05860.jpg)
