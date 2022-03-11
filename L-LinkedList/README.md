@@ -21,7 +21,5 @@ Space Complexity: O(1) (since no extra space is used.)
     - If list2->data < list1->data
       *  Add list2->data to new list and increment list2 pointer
 2. Repeat procedure until both lists are exhausted
-3. Return resultant list
+3. Return resultant list.
 
-
-![This is an image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220303143032/Merge-Two-Sorted-LinkedLists1.jpg)
